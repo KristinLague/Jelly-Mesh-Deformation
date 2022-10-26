@@ -531,7 +531,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pressureForce: 0.25
-  pressureOffset: 0.1
+  pressureOffset: 2
 --- !u!114 &534669907
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -776,9 +776,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aef6d551167bd54eb85d0fcf84683c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bounceSpeed: 55
+  bounceSpeed: 100
   fallForce: 0
-  stiffness: 5
+  stiffness: 3
 --- !u!114 &1918658223
 MonoBehaviour:
   m_ObjectHideFlags: 0
